@@ -1,0 +1,76 @@
+body {
+    margin: 0 auto;
+    padding: 30px;
+    max-width: 800px;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 1em;
+}
+
+.form {
+    margin: 0 auto;
+    width: 90%;
+    padding: 2em;
+    border: 1px solid black;
+}
+
+.formin {
+    padding: .5em;
+    font-size: 20px;
+}
+
+input {
+    padding: 4px;
+    width: 17%;
+    font-size: 17px;
+}
+
+button {
+    width: 130px;
+    font-size: 19px;
+}
+
+content {
+    padding: .5em;
+    font-size: 25px;
+}
+
+.search {
+    padding: .5em;
+}
+
+.flexcontainer {
+    display: flex;
+    margin: .1em;
+    flex-wrap: wrap;
+}
+
+.flexitem {
+    border: 1px solid black;
+    padding: 0 0 .5em .7em;
+    width: 250px;
+}
+
+.content {
+    display: none;
+    width: 95%;
+}
+
+h4 {
+    margin: .5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+p {
+    font-size: .5em;
+    color: brown;
+}
+
+.viw {
+    display: block;
+    width: 95%;
+}
